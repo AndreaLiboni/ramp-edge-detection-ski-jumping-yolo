@@ -1,0 +1,6 @@
+DATA:
+    YAML_FILE: "./datasets/data.yaml"
+    OUTPUT_FOLDER: "./yolo_output"
+
+MODEL:
+    MODEL_PATH: 
